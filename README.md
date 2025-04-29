@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, it's Johannes 👋
+
+Here are some links you may find heplful:
+- [MHNfs](https://github.com/ml-jku/MHNfs) - a few-shot model for drug discovery scenarios
+- [MHNfs HuggingFace application](https://huggingface.co/spaces/ml-jku/mhnfs) - interactive, prompting-based interace to interact with MHNfs
+- Bio-xLSTM repo family ([Prot-xLSTM](https://github.com/ml-jku/Prot-xLSTM/), [DNA-xLSTM](https://github.com/ml-jku/DNA-xLSTM/), [Chem-xLSTM](https://github.com/ml-jku/Chem-xLSTM/)) - language modeling for biological domains
+
 
 <!--
 **Tschoui/Tschoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
