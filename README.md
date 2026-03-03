@@ -1,25 +1,33 @@
 ## Hi there, it's Johannes 👋
 
-Here are some links you may find helpful:
-- [MolecularIQ leaderboard](https://huggingface.co/spaces/ml-jku/molecularIQ_leaderboard) - leaderboard to benchmark chemical reasoning capabilities through symbolic verification on molecular graphs
-- [MolecularIQ code base](https://github.com/ml-jku/moleculariq)
-- [MHNfs](https://github.com/ml-jku/MHNfs) - few-shot model for drug discovery scenarios
-- [MHNfs HuggingFace application](https://huggingface.co/spaces/ml-jku/mhnfs) - interactive, prompting-based interace to interact with MHNfs
-- Bio-xLSTM repo family ([Prot-xLSTM](https://github.com/ml-jku/Prot-xLSTM/), [DNA-xLSTM](https://github.com/ml-jku/DNA-xLSTM/), [Chem-xLSTM](https://github.com/ml-jku/Chem-xLSTM/)) - language modeling for biological domains
+My work focuses on structured molecular reasoning, few-shot learning, and biological language modeling.
 
+---
 
+## 🔬 Molecular Reasoning Benchmark
 
-<!--
-**Tschoui/Tschoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MolecularIQ** — A structured benchmark for evaluating chemical reasoning via symbolic verification on molecular graphs.  
+- [MolecularIQ Leaderboard](https://huggingface.co/spaces/ml-jku/molecularIQ_leaderboard)  
+- [MolecularIQ Code Base](https://github.com/ml-jku/moleculariq)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Few-Shot Drug Discovery
+
+**MHNfs** — Memory-augmented few-shot learning for low-data bioactivity prediction.  
+- [MHNfs Repository](https://github.com/ml-jku/MHNfs)  
+- [Interactive HuggingFace App](https://huggingface.co/spaces/ml-jku/mhnfs)
+
+---
+
+## 🧬 Biological Foundation Models (xLSTM family)
+
+Language modeling architectures tailored to biological sequences and molecules:
+- [Prot-xLSTM](https://github.com/ml-jku/Prot-xLSTM/)
+- [DNA-xLSTM](https://github.com/ml-jku/DNA-xLSTM/)
+- [Chem-xLSTM](https://github.com/ml-jku/Chem-xLSTM/)
+
+---
+
+PhD in Machine Learning @ JKU Linz  
+Interested in AI systems that combine symbolic structure, memory, and foundation models for scientific discovery.
