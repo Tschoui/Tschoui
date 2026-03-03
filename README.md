@@ -1,7 +1,9 @@
 ## Hi there, it's Johannes 👋
 
 Here are some links you may find helpful:
-- [MHNfs](https://github.com/ml-jku/MHNfs) - a few-shot model for drug discovery scenarios
+- [MolecularIQ leaderboard](https://huggingface.co/spaces/ml-jku/molecularIQ_leaderboard) - leaderboard to benchmark chemical reasoning capabilities through symbolic verification on molecular graphs
+- [MolecularIQ code base](https://github.com/ml-jku/moleculariq)
+- [MHNfs](https://github.com/ml-jku/MHNfs) - few-shot model for drug discovery scenarios
 - [MHNfs HuggingFace application](https://huggingface.co/spaces/ml-jku/mhnfs) - interactive, prompting-based interace to interact with MHNfs
 - Bio-xLSTM repo family ([Prot-xLSTM](https://github.com/ml-jku/Prot-xLSTM/), [DNA-xLSTM](https://github.com/ml-jku/DNA-xLSTM/), [Chem-xLSTM](https://github.com/ml-jku/Chem-xLSTM/)) - language modeling for biological domains
 
